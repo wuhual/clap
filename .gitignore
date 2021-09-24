@@ -1,24 +1,17 @@
-
-#///////////////////////////
-# Cocos Creator 3D Project
-#///////////////////////////
-library/
-temp/
-local/
-build/
-profiles/
-native
-#//////////////////////////
-# NPM
-#//////////////////////////
+.DS_Store
 node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+/test/unit/coverage/
+/test/e2e/reports/
+selenium-debug.log
 
-#//////////////////////////
-# VSCode
-#//////////////////////////
-.vscode/
-
-#//////////////////////////
-# WebStorm
-#//////////////////////////
-.idea/
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
