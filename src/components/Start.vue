@@ -10,7 +10,7 @@
       <div class="row">
         <label>初始能量</label>
       </div>
-            <div class="row">
+      <div class="row">
         <button>技能详情</button>
       </div>
     </div>
@@ -24,7 +24,7 @@
       <div class="row">
         <label>初始能量</label>
       </div>
-            <div class="row">
+      <div class="row">
         <button>技能详情</button>
       </div>
     </div>
