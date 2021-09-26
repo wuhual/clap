@@ -1,8 +1,8 @@
 <template>
-  <div id="interface">
-    <div id="sword" class="column">
+  <div id="interface" class="dualframe">
+    <div id="sword" class="charaterframe">
       <div class="row">
-        <button>sword</button>
+        <button class="mainbutton">sword</button>
       </div>
       <div class="row">
         <label>血量</label>
@@ -11,12 +11,12 @@
         <label>初始能量</label>
       </div>
       <div class="row">
-        <button>技能详情</button>
+        <button class="mainbutton">技能详情</button>
       </div>
     </div>
-    <div id="mana" class="column">
+    <div id="mana" class="charaterframe">
       <div class="row">
-        <button>mana</button>
+        <button class="mainbutton">mana</button>
       </div>
       <div class="row">
         <label>血量</label>
@@ -25,7 +25,7 @@
         <label>初始能量</label>
       </div>
       <div class="row">
-        <button>技能详情</button>
+        <button class="mainbutton">技能详情</button>
       </div>
     </div>
   </div>
